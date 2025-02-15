@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "build": "[my-framework] build --output public"
+    "build": "[my-framework] build --output public",
+    "run:":"npm run dev"
   }
 }
